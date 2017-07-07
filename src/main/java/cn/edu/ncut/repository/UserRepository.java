@@ -21,6 +21,4 @@ public interface UserRepository {
     void update(@Param("id") Integer id, @Param("password") String password);
 
 
-
-
 }

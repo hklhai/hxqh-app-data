@@ -19,6 +19,9 @@ public class PubMap {
     private String location;
     private String pubtype;
 
+    public PubMap() {
+    }
+
     public Integer getPubid() {
         return pubid;
     }
