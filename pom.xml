@@ -13,8 +13,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
         <argLine>-Dfile.encoding=UTF-8</argLine>
-        <junit.version>4.10</junit.version>
-        <spring.version>4.2.5.RELEASE</spring.version>
+        <junit.version>4.12</junit.version>
+        <spring.version>4.3.8.RELEASE</spring.version>
         <hibnate.version>5.2.10.Final</hibnate.version>
         <aspectj.version>1.8.8</aspectj.version>
         <slf4j.version>1.7.20</slf4j.version>

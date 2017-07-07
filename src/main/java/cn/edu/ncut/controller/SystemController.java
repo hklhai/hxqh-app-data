@@ -25,7 +25,7 @@ public class SystemController {
 
 //    @RequestMapping(value = "/list", method = RequestMethod.GET)
 //    public String getAuthorDetail() {
-//        Map<String, Object> result = new HashMap<>();
+//        PubMap<String, Object> result = new HashMap<>();
 //        List<User> userList = userService.getUserList();
 //        result.put("size", userList.size());
 //        return "/searchStatics/index";
